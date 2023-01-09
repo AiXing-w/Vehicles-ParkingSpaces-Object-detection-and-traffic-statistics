@@ -31,4 +31,5 @@ PKLot_client为客户端，客户端发起车位查询的请求，客户端负�
 
 # 演示视频
 
-https://www.bilibili.com/video/BV1XG4y1w7kT
+[基于目标检测算法的车辆停车位检测和流量统计](https://www.bilibili.com/video/BV1XG4y1w7kT)
+链接：https://www.bilibili.com/video/BV1XG4y1w7kT
