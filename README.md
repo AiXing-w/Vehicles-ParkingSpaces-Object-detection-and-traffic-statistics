@@ -18,6 +18,7 @@ PKLot_client为客户端，客户端发起车位查询的请求，客户端负�
 **权值文件下载地址：**
 
 链接：https://pan.baidu.com/s/1X_iAieXwVn02HEo5ihFSFw?pwd=xqbr 
+
 提取码：xqbr
 
 # 测试样例
@@ -25,4 +26,9 @@ PKLot_client为客户端，客户端发起车位查询的请求，客户端负�
 **测试样例下载链接：**
 
 链接：https://pan.baidu.com/s/1wH5_PkoUYxQTXvEt6wzoHA?pwd=m76z 
+
 提取码：m76z
+
+# 演示视频
+
+https://www.bilibili.com/video/BV1XG4y1w7kT
