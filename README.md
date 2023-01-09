@@ -31,6 +31,4 @@ PKLot_client为客户端，客户端发起车位查询的请求，客户端负�
 
 # 演示视频
 
-<iframe src="https://www.bilibili.com/video/BV1XG4y1w7kT" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-视频链接：https://www.bilibili.com/video/BV1XG4y1w7kT
+视频链接：[https://www.bilibili.com/video/BV1XG4y1w7kT](https://www.bilibili.com/video/BV1XG4y1w7kT)
