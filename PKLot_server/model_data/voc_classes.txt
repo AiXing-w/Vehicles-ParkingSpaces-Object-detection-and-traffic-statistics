@@ -1,0 +1,2 @@
+space-occupied
+space-empty
